@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "view-tabbar": "/components/foot-tabbar/foot-tabbar"
+  }
+}

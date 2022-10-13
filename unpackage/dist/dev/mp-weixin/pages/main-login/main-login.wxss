@@ -1,0 +1,113 @@
+
+.login.data-v-6cbf2826{
+	width: 750rpx;
+	height: 1625rpx;
+	background-color: #4678FA;
+}
+.login_head.data-v-6cbf2826{
+	width: 100%;
+	height: 230rpx;
+	padding-top: 295rpx;
+}
+.eye-left.data-v-6cbf2826{
+	float: left;
+	margin-left: 192rpx;
+	width: 85rpx;
+	height: 100%;
+	background-color: white;
+	border-radius: 50rpx;
+}
+.eye-right.data-v-6cbf2826{
+	float: right;
+	margin-right: 192rpx;
+	width: 100rpx;
+	height: 100%;
+	background-color: white;
+	border-radius: 50rpx;
+}
+.login_middle.data-v-6cbf2826{
+	margin-top: 300rpx;
+}
+.uni-form-item.data-v-6cbf2826{
+	margin: 30rpx 0;
+}
+.weixin-span.data-v-6cbf2826{
+	margin-top: 18rpx;
+	margin-left: 170rpx;
+	float: left;
+	width: 40rpx;
+	height: 40rpx;
+}
+button text.data-v-6cbf2826{
+	float: left;
+	margin-left: 10rpx;
+}
+button.data-v-6cbf2826{
+	width: 570rpx;	
+	background-color: white;
+	color: #4678FA;
+	border-radius: 50rpx;
+	font-family: "标题黑";
+	font-size: 30rpx;
+	text-align: center;
+}
+.middle-footer.data-v-6cbf2826{
+	margin-top: 100rpx;
+	margin-left: 190rpx;
+}
+.middle-footer-center text.data-v-6cbf2826{
+		
+	float: left;
+	font-size: 25rpx;
+	text-align: center;
+	color: white;
+}
+.line.data-v-6cbf2826{
+	float: left;
+	height:3rpx;
+	width: 80rpx;
+	background-color: white;
+	margin-top: 18rpx;
+}
+.qq.data-v-6cbf2826{
+	width: 100%;
+	margin-top: 190rpx;
+}
+.qq-span.data-v-6cbf2826{
+	margin-left: 320rpx;
+	width: 90rpx;
+	height: 90rpx;
+}
+.foot.data-v-6cbf2826{
+	width: 100%;
+	
+	margin-top: 50rpx;
+}
+.foot_text.data-v-6cbf2826{
+	float: right;
+	margin-right: 150rpx;
+	margin-top: 5rpx;
+	font-size: 20rpx;
+	color: white;
+}
+/* checkbox样式 */
+.data-v-6cbf2826 uni-checkbox .uni-checkbox-input{
+	float: left;
+	margin-left: 110rpx;
+	width: 20rpx;
+	height: 20rpx;
+	border-radius: 50% ;
+	background-color: white !important;
+}
+/* 选中时的样式 */
+.data-v-6cbf2826 uni-checkbox .uni-checkbox-input.uni-checkbox-input-checked{
+	background-color: white !important;
+	color: #4678FA !important;
+}
+
+
+
+
+
+
+

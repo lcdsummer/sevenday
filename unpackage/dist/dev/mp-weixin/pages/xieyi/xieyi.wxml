@@ -1,0 +1,1 @@
+<view class="four"><view class="top"><firsthead vue-id="1b4579f6-1" title="协议名" bind:__l="__l"></firsthead></view><view class="passage"><view class="wenzi"><text space="emsp" decode="true">{{''+" 坚持党的全面领导，最根本的就是坚决维护党中央权威和集中统一领导，不断增强“四个意识”、坚定“四个自信”、做到“两个维护”"}}</text></view></view></view>

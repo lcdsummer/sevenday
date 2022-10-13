@@ -1,0 +1,46 @@
+
+.content {
+	background-color: #FFFFFF;
+	padding: 20rpx;
+	border-bottom: 1px solid #C0C0C0;
+}
+.bar-view {
+	width: 100%;
+	text-align: center;
+	white-space: nowrap;
+}
+.titleBar {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+.barItem {
+	display: flex;
+	flex-direction: column;
+	margin-right: 40rpx;
+}
+.bottomLine {
+	width: 70rpx;
+	height: 10rpx;
+	background-color: #FFAC3E;
+	border-radius: 10rpx;
+	margin-top: 10rpx;
+}
+.bottomLine2 {
+	width: 70rpx;
+	height: 10rpx;
+	border-radius: 10rpx;
+	margin-top: 10rpx;
+}
+.textBar {
+	color: #FFAC3E;
+}
+.textBar2 {
+	color: #160e05;
+}
+.line {
+	height: 1px;
+	background-color: #CCCCCC;
+	margin: 20rpx 20rpx;
+}
+

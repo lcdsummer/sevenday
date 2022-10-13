@@ -1,0 +1,1 @@
+<view class="third"><view class="top"><firsthead vue-id="4873bea0-1" title="我的优惠券" bind:__l="__l"></firsthead></view><view class="white"><view class="blue"><view class="answer-card"><image class="search-span" src="../../static/image/优惠券.png"></image></view></view></view><view class="text"><text>暂时没有优惠券</text></view></view>

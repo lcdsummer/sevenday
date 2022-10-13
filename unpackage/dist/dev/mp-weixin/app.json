@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/test-stumsg/test-stumsg",
+    "pages/stu-Msg/stu-Msg",
+    "pages/talk/talk",
+    "pages/test-foot-tabbar/test-foot-tabbar",
+    "pages/text-tabbar/text-tabbar",
+    "pages/change-msg/change-msg",
+    "pages/test-xzt/test-xzt",
+    "pages/zuoye-answer/zuoye-answer",
+    "pages/test-touxiang/test-touxiang",
+    "pages/main-login/main-login",
+    "pages/addstudent/addstudent",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/setPassword/setPassword",
+    "pages/login/login",
+    "pages/xieyi/xieyi",
+    "pages/answer/answer",
+    "pages/youhui/youhui",
+    "pages/yzm-login/yzm-login",
+    "pages/sms-reset/sms-reset",
+    "pages/accountSecurity/accountSecurity",
+    "pages/index/index",
+    "pages/xuanzeqi/xuanzeqi",
+    "components/second-head/second-head",
+    "pages/security/security",
+    "pages/my-msg/my-msg",
+    "pages/search-user/search-user",
+    "pages/about/about",
+    "pages/begin/begin",
+    "pages/test-danx/test-danx",
+    "pages/test-danx/texttwo/texttwo",
+    "pages/test-danx/testthree/testthree",
+    "components/talk-head/talk-head",
+    "pages/test-SJuan/test-SJuan",
+    "pages/test-tanc/test-tanc"
+  ],
+  "subPackages": [],
+  "tabBar": {
+    "selectedColor": "#79D5AD",
+    "color": "#999999",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "height": "0px",
+    "list": [
+      {
+        "pagePath": "pages/search/search",
+        "text": " "
+      },
+      {
+        "pagePath": "pages/addstudent/addstudent",
+        "text": " "
+      },
+      {
+        "pagePath": "pages/main-login/main-login",
+        "text": " "
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": " "
+      }
+    ]
+  },
+  "usingComponents": {}
+}

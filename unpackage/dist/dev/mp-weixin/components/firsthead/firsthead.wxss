@@ -1,0 +1,17 @@
+
+.first-head.data-v-62aaa334{
+	height: 150rpx;
+	width: 750rpx;
+	font-size: 28rpx;
+	line-height: 150rpx;
+	text-align: center;
+	position: relative;
+}
+.head-left.data-v-62aaa334{
+	position:absolute;
+	float: left;
+	margin-left: 50rpx;
+	text-align: center;
+}
+
+

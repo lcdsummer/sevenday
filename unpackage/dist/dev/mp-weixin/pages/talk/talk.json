@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "chat-text-list": "/components/chat-list/chat-text-list"
+  }
+}

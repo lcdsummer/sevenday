@@ -1,0 +1,48 @@
+
+.selected {
+	color: white;
+	background-color: red;
+}
+.item{
+	float: left;
+	width:660rpx;
+	height: 960rpx;
+	background-color: white;
+	margin: 110rpx 55rpx 40rpx;
+	border-radius: 40rpx;
+}
+.zimu{
+	text-align: center; 
+	float: left; 
+	width: 60rpx; 
+	height: 60rpx;
+	border-radius: 50%;
+	background-color: #eee;
+}
+.xuanz{
+	margin-top: 30rpx;
+	margin-left: 80rpx;
+	line-height: 65rpx;
+	width: 300rpx;
+	height: 70rpx;
+	border-radius: 50rpx;
+	background-color: bisque;
+}
+/*倒计时 */
+.container {
+	padding: 20rpx;
+}
+.case {
+	display: flex;
+	margin: 20rpx;
+}
+.title {
+	margin-right: 10rpx;
+	color: #7f7f7f;
+}
+.custom {
+	display: flex;
+	color: #7f7f7f;
+}
+/*倒计时 */
+

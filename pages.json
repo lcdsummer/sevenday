@@ -1,0 +1,336 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/change-msg/change-msg",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/test-stumsg/test-stumsg",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/stu-Msg/stu-Msg",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/talk/talk",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/test-foot-tabbar/test-foot-tabbar",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/text-tabbar/text-tabbar",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		{
+		    "path" : "pages/test-xzt/test-xzt",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/zuoye-answer/zuoye-answer",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/test-touxiang/test-touxiang",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		
+		{
+		    "path" : "pages/main-login/main-login",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+	
+		
+		{
+		    "path" : "pages/addstudent/addstudent",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		},
+		
+		
+		{
+			"path": "pages/search/search",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		},
+		{
+		    "path" : "pages/setPassword/setPassword",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/login/login",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		{
+		    "path" : "pages/xieyi/xieyi",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		
+		
+		{
+		    "path" : "pages/answer/answer",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		
+		
+		{
+			"path": "pages/youhui/youhui",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		},
+		
+		
+		
+		{
+		    "path" : "pages/yzm-login/yzm-login",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		{
+		    "path" : "pages/sms-reset/sms-reset",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+		
+		{
+		    "path" : "pages/accountSecurity/accountSecurity",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		
+
+		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom"
+			}
+			
+		}
+        ,{
+            "path" : "pages/xuanzeqi/xuanzeqi",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        }
+           
+        
+        ,{
+            "path" : "components/second-head/second-head",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        }
+        ,{
+            "path" : "pages/security/security",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        }
+		,{
+		    "path" : "pages/my-msg/my-msg",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/search-user/search-user",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		}
+		
+        ,{
+            "path" : "pages/about/about",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        },
+		{
+		    "path" : "pages/begin/begin",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/test-danx/test-danx",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/test-danx/texttwo/texttwo",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        },
+		{
+		    "path" : "pages/test-danx/testthree/testthree",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		}
+
+        ,{
+            "path" : "components/talk-head/talk-head",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        }
+		
+        
+        
+        ,{
+            "path" : "pages/test-SJuan/test-SJuan",
+            "style" :                                                                                    
+            {
+                "navigationStyle": "custom"
+            }
+            
+        }
+		,{
+		    "path" : "pages/test-tanc/test-tanc",
+		    "style" :                                                                                    
+		    {
+		        "navigationStyle": "custom"
+		    }
+		    
+		}
+		
+		
+    ],
+	"tabBar": {
+	        "selectedColor":"#79D5AD",
+	        "color": "#999999",
+	        "backgroundColor":"#ffffff",
+	        "borderStyle": "white",
+	        "height":"0px",
+	        "list": [{
+	            "pagePath":"pages/search/search",
+	            "text": " "
+	        },{
+	            "pagePath":"pages/addstudent/addstudent",
+	            "text": " "
+	        },{
+	            "pagePath":"pages/main-login/main-login",
+	            "text": " "
+	        },{
+	            "pagePath":"pages/my/my",
+	            "text": " "
+	        }]}
+	
+	
+	
+}

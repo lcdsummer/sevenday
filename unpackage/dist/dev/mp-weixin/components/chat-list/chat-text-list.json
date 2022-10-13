@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-icons": "/components/chat-list/uni-icons",
+    "talk-head": "/components/talk-head/talk-head"
+  }
+}

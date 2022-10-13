@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "test-SJuan-countdown-timer-default": "/pages/test-SJuan/test-SJuan-countdown-timer-default",
+    "firsthead": "/components/firsthead/firsthead"
+  }
+}

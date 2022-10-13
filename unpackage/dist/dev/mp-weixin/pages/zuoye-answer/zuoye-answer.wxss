@@ -1,0 +1,84 @@
+
+.content.data-v-569a21e6{
+	background-color: #eee;
+	height: 1640rpx;
+	width: 750rpx;
+}
+.card.data-v-569a21e6{
+	background-color: white;
+	width: 500rpx;
+	height: 900rpx;
+	border-radius: 40rpx;
+	margin-left: 120rpx;
+}
+.card-head.data-v-569a21e6{
+	width: 100%;
+	height: 100rpx;
+}
+.shuqian.data-v-569a21e6{
+	float: right;
+	width: 100rpx;
+	height: 50rpx;
+	background-color: aqua;
+	color: blue;
+	border-bottom-left-radius:50rpx;
+	border-top-left-radius:50rpx;
+}
+.text.data-v-569a21e6 {
+  width: 20%;
+  margin-top: 6rpx;
+  float: left;
+  text-align: center;
+}
+.picker_comment.data-v-569a21e6 {
+  width: 65%;
+  margin-left: 20%;
+}
+.attr_value.data-v-569a21e6 {
+  float: left;
+  width: 40%;
+  height: 50rpx;
+  margin-bottom: 20rpx;
+  margin-left: 14rpx;
+  margin-right: 25rpx;
+  position: relative;
+}
+.radio_label.data-v-569a21e6 {
+  display: block;
+  text-align: center;
+  line-height: 50rpx;
+}
+radio.data-v-569a21e6 {
+  box-sizing: border-box;
+  background: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+/* radio未选中时样式 */
+radio .wx-radio-input.data-v-569a21e6 {
+  margin-right: 15rpx;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: none;
+  border-radius: 6rpx;
+  box-sizing: border-box;
+}
+/* 选中后的 背景样式 （红色背景 无边框 可根据UI需求自己修改） */
+radio .wx-radio-input.wx-radio-input-checked.data-v-569a21e6 {
+  background-color: transparent;
+  border-color: #01c2ab;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+/* 选中后的 对勾样式 （白色对勾 可根据UI需求自己修改） */
+radio .wx-radio-input.wx-radio-input-checked.data-v-569a21e6::before {
+  font-size: 0rpx; /* 对勾大小 去掉 */
+}
+
+

@@ -1,0 +1,29 @@
+
+.first-head.data-v-b56f5070{
+	height: 100rpx;
+	width: 750rpx;
+	font-size: 28rpx;
+	line-height: 150rpx;
+	text-align: center;
+	background-color: #eee;
+	position: fixed;
+	z-index: 100;
+	top: 0%;
+}
+.head-left.data-v-b56f5070{
+	
+	margin-left: 50rpx;
+	text-align: center;
+	position: fixed;
+	z-index: 100;
+}
+
+
+
+.wenzi{
+	height: 50rpx; 
+	width: 420rpx;
+	color: antiquewhite;
+}
+
+

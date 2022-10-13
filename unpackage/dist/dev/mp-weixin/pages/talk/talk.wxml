@@ -1,0 +1,1 @@
+<view><chat-text-list vue-id="38c69140-1" my_image="../../static/image/头像.jpg" other_image="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=1429264363,3038688244&fm=26&gp=0.jpg" my_name="我的名字" other_name="对方的名字" msgs="{{msg}}" data-event-opts="{{[['^send',[['sendmsg']]]]}}" bind:send="__e" bind:__l="__l"></chat-text-list></view>

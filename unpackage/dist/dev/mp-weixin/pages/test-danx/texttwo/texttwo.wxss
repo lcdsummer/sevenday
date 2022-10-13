@@ -1,0 +1,45 @@
+
+.selected {
+	float: left;
+	
+	border-radius: 50%;
+	background-color: #FC8C06;
+	text-align: center;
+	line-height: 60rpx;
+}
+.radio-botton{
+	width: 50rpx;
+	height: 50rpx;
+	background-color: antiquewhite;
+}
+.botton{
+	float: left;
+	
+	width: 60rpx;
+	height: 60rpx;
+	text-align: center;
+	line-height: 60rpx;
+	
+	border-radius: 50%;
+}
+.active {
+	text-align: center;
+	line-height: 60rpx;
+	border-radius: 50%;
+	float: left;
+      width: 40px;
+      height: 40px;
+      background-color: #eee;
+}
+.actived {
+		text-align: center;
+		line-height: 60rpx;
+		
+		border-radius: 50%;
+		float: left;
+      width: 40px;
+      height: 40px;
+      background-color: rgb(255, 127, 138);
+}
+
+

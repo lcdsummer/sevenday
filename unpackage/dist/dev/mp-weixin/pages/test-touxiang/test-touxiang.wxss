@@ -1,0 +1,11 @@
+
+#userinfo.data-v-73e9285c{
+  width: 100rpx;
+  height:100rpx;
+  border-radius:50%;
+  display: flex;
+  overflow:hidden;
+  text-align: center;
+}
+	
+

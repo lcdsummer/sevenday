@@ -1,0 +1,71 @@
+
+.second.data-v-7d09cf28{
+	width: 750rpx;
+	height: 1625rpx;
+	background-color: #EEEEEE;
+}
+.search-head.data-v-7d09cf28{
+	display: flex;
+	height: 165rpx;
+}
+.search-span.data-v-7d09cf28{
+	width: 40rpx;
+	height: 40rpx;
+	margin-top: 12rpx;
+	margin-left: 20rpx;
+}
+.phone-search.data-v-7d09cf28{
+	display: flex;
+	height: 60rpx;
+	width: 595rpx;
+	margin-top: 99rpx;
+	margin-left: 39rpx;
+	border: 1px #4678FA solid;
+	background-color: white;
+	border-radius: 50rpx;
+}
+.phone-search input.data-v-7d09cf28{
+	font-size: 25rpx; 
+	margin-top: 14rpx;
+	margin-left: 100rpx;
+}
+.quxiao.data-v-7d09cf28{
+	font-size: 25rpx;
+	font-family: "标题黑";
+	font-weight: bold;
+	margin-top: 112rpx;
+	margin-left: 30rpx;
+	color: #4678FA;
+}
+.user.data-v-7d09cf28{
+	width: 670rpx;
+	height: 130rpx;
+	background-color: white;
+	float: left;
+	margin-top: 50rpx;
+	margin-left: 39rpx;
+	border-radius: 20rpx;
+}
+#userinfo.data-v-7d09cf28{
+  width: 90rpx;
+  height:90rpx;
+  border-radius:50%;
+  display: flex;
+  overflow:hidden;
+  float: left;
+  margin-top: 20rpx;
+  margin-left: 50rpx;
+}
+.name.data-v-7d09cf28{
+	float: left;
+	height: 30rpx;
+	margin-top: 30rpx;
+	margin-left: 20rpx;
+}
+.area.data-v-7d09cf28{
+	font-size: 20rpx;
+	color: #acacac;
+	margin-left: 160rpx;
+	margin-top: 70rpx;
+}
+

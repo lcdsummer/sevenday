@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "stu-msg": "/components/stu-msg/stu-msg"
+  }
+}

@@ -1,0 +1,20 @@
+
+.item{
+	float: left;
+	width:600rpx;
+	height: 500rpx;
+	background-color: white;
+	margin: 20rpx 75rpx 40rpx;
+	border-radius: 40rpx;
+}
+.wenzi{
+	
+	margin-top: 20rpx;
+	margin-left: 90rpx;
+	height: 50rpx;
+	width: 420rpx;
+}
+.wenzi text{
+	float: right;
+}
+

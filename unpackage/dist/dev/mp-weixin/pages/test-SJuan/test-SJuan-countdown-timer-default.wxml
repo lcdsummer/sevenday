@@ -1,0 +1,1 @@
+<view class="case"><view class="title">剩余时间</view><view class="custom"><view>{{minute}}</view><view>:</view><view>{{second}}</view></view></view>

@@ -1,0 +1,15 @@
+
+.selected {
+		color: white;
+		background-color: #FC8C06;
+}
+.uni-list {
+	display: flex;
+	flex-direction: row;
+}
+.uni-list-cell {
+	display: flex;
+	flex-direction: row;
+    /* justify-content: flex-start */
+}
+

@@ -1,0 +1,56 @@
+
+.content{
+	background-color: #eee;
+	width: 750rpx;
+	height: 1470rpx;
+}
+.name{
+	height: 70rpx;
+	width: 190rpx;
+	background-color: white;
+	border-radius: 50rpx;
+	margin-left: 45rpx;
+	float: left;
+}
+.name text{
+	font-size: 25rpx;
+	float: left;
+	margin-top: 18rpx;
+	margin-left: 25rpx;
+}
+.name image{
+	width: 20rpx;
+	height: 16rpx;
+	float: right;
+	margin-top: 28rpx;
+	margin-right: 20rpx;
+}
+.ketang{
+	background-color: white;
+	width: 655rpx;
+	height: 160rpx;
+	margin-left: 45rpx;
+	margin-top: 30rpx;
+	float: left;
+	border-radius: 40rpx;
+}
+.icon{
+	width: 110rpx;
+	height: 110rpx;
+	background-color: #eeeeee;
+	border-radius: 50%;
+	float: left;
+	margin:25rpx;
+}
+.icon image{
+	width: 65rpx;
+	height: 65rpx;
+	float: left;
+	margin: 24rpx;
+}
+.ketang text{
+	font-size: 35rpx;
+	float: left;
+	line-height: 150rpx;
+}
+
